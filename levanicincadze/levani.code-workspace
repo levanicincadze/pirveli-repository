@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../zd"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "levanicincadze"
+	}
+}
